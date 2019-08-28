@@ -1,5 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+         pageEncoding="UTF-8" isELIgnored="false" %>
 <html>
     <body>
-       <h1>Result: <%=request.getAttribute("result")%></h1>
+       <h1>Result: ${result}</h1>
     </body>
 </html>

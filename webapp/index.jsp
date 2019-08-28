@@ -1,7 +1,7 @@
 <html>
 <body>
 <%--<h2>Hello World!</h2>--%>
-<form action="add">
+<form action="add" method="post">
     <input type="text" name="t1"><br>
     <input type="text" name="t2"><br>
     <input type="submit">
